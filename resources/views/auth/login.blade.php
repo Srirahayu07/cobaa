@@ -7,7 +7,7 @@
       <div class="row justify-content-center flex-center  full-height">
           <div class="col-md-8">
               <div class="card">
-                  <div class="card-header text">{{ __('Login') }}</div>
+                  <div class="card-header text">{{ __('Login Anjay') }}</div>
 
                   <div class="card-body">
                       <form method="POST" action="{{ route('login') }}">
