@@ -11,6 +11,7 @@
               <div class="col-md-3">
 
                   <h1><b>Visi Misi BKN</b></h1>
+                  <h1><b>Visi Misi BANG</b></h1>
                   <h2>VISI</h2>
                     <h3>Menjadi Pembina dan Penyelenggara Manajemen Kepegawaian yang Profesional dan Bermartabat Tahun 2025
                       <h2>MISI</h2>
